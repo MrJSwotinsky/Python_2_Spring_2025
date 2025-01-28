@@ -29,7 +29,7 @@ Tuesday, January 28th 2025
 
 ## Resources
 [Random Module Documentation](https://docs.python.org/3/library/random.html)<br><br>
-[edube.org (1.1.1.1 Modules - 1.1.1.11 Section Summary)](edube.org)<br><br>
+[edube.org](edube.org) (1.1.1.1 Modules - 1.1.1.11 Section Summary)<br><br>
 **Code Reference:** <br>
 |Code|Description|
 |---|---|
