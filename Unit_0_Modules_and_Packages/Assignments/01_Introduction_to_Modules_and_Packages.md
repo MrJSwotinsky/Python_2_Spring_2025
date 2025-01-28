@@ -1,6 +1,9 @@
 # Unit 0, Assignment 01: Introduction to Modules and Packages
 Due: Thursday, January 30th 2025
 
+## Reading
+[edube.org](edube.org) (1.1.1.1 Modules - 1.1.1.11 Section Summary)<br><br>
+
 ## Assignmment
 1. Create a new folder in your Computer Science Portfolio titled `Python_2_Unit_0_Assignments_and_Labs`.
 2. Within your new folder, create a new file titled `LastNameFirstInitial_Intro_to_Modules_and_Packages.md`.
