@@ -28,7 +28,8 @@ Tuesday, January 28th 2025
 <br>[Unit 0 Assignment 01 - Introduction to Modules and Packages](https://github.com/MrJSwotinsky/Python_2_Spring_2025/blob/main/Unit_0_Modules_and_Packages/Assignments/01_Introduction_to_Modules_and_Packages.md)
 
 ## Resources
-
+[Random Module Documentation](https://docs.python.org/3/library/random.html)<br><br>
+[edube.org (1.1.1.1 Modules - 1.1.1.11 Section Summary)](edube.org)<br><br>
 **Code Reference:** <br>
 |Code|Description|
 |---|---|
