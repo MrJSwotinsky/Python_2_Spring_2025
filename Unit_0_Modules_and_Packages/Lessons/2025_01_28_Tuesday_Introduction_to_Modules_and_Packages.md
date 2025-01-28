@@ -28,3 +28,14 @@ Tuesday, January 28th 2025
 <br>[Unit 0 Assignment 01 - Introduction to Modules and Packages](https://github.com/MrJSwotinsky/Python_2_Spring_2025/blob/main/Unit_0_Modules_and_Packages/Assignments/01_Introduction_to_Modules_and_Packages.md)
 
 ## Resources
+
+**Code Reference:** <br>
+|Code|Description|
+|---|---|
+|`import module_1`| imports `module_1`.<br><br>When this import strategy is used, entities must be accessed using dot notation.<br><br>For example, `module_1.entity_1()` accesses `entity_1()` of `module_1`.|
+|`from module_1 import *`| imports all entities of `module_1`.<br><br>When this import strategy is used, entities must be accessed without using dot notation.<br><br>For example, `entity_1()` accesses `entity_1()` of `module_1`.|
+|`from module_1 import entity_1`| imports only `entity_1()` of `module_1`.<br><br>When this import strategy is used, entities must be accessed without using dot notation.<br><br>For example, `entity_1()` accesses `entity_1()` of `module_1`.|
+|`import module_1 as m1`| imports `module_1` using the alias `m1`.<br><br>When this import strategy is used, entities must be accessed using their alias and dot notation.<br><br>For example, `m1.entity_1()` accesses `entity_1()` of `module_1`.|
+|`from module_1 import entity_1 as e1`| imports only `entity_1()` (using the alias `e1`) of `module_1`.<br><br>When this import strategy is used, entities must be accessed using their alias without using dot notation.<br><br>For example, `e1()` accesses `entity_1()` of `module_1`.|
+|`from module_1 import entity_1, entity_2`| imports only `entity_1()` and `entity_2` of `module_1`.<br><br>When this import strategy is used, entities must be accessed without using dot notation.<br><br>For example, `entity1()` accesses `entity_1()` of `module_1` and `entity2()` accesses `entity_2()` of `module_1`.|
+|`from module_1 import entity_1 as e1, entity_2 as e2`| imports only `entity_1()` (using the alias `e1`) and `entity_2` (using the alias `e2`) of `module_1`.<br><br>When this import strategy is used, entities must be accessed using their aliases without using dot notation.<br><br>For example, `e1()` accesses `entity_1()` of `module_1` and `e2()` accesses `entity_2()` of `module_1`.|
