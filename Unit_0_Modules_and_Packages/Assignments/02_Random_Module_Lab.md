@@ -8,6 +8,7 @@ Due: Friday, January 31st 2025
 1. Create a new Python file in your in your `Python_2_Unit_0_Assignments_and_Labs` folder titled `LastNameFirstInitial_Random_Module_Lab.py`.
 2. Copy/Paste the starter code below, replace `Full_Name` with your full name, and complete the lab below.
 
+**As you work, remember to commit frequently and include an appropriate commit message.**
 
 ```python
 # Random Module Lab
@@ -49,18 +50,32 @@ colors = ['red', 'orange', 'yellow', 'green', 'blue', 'purple']
 greeting = 'Hello, World!'
 
 print('\nRandom colors:\n')
-# Write you your code for setp 14 below:
+# Write your code for step 14 below:
 
 print('\nRandom characters:\n')
-# Write you your code for setp 15 below:
+# Write your code for step 15 below:
 
 print('\nRandom lists of colors:\n')
-# Write you your code for setp 16 below:
+# Write your code for step 16 below:
 
 print('\nRandom strings:\n')
-# Write you your code for setp 17 below:
+# Write your code for step 17 below:
 
+# Use comments respond to the following questions and prompts for step 18 below each question/prompt:
+
+# What import strategy must be used in order to be able to display the entities within a module?
+
+# What must you do to display the entities of a module that has been imported using an alias?
+
+# In questions 3, 4, and 5 you generated a set of random numbers in a few different ways.  First, you generated random numbers without setting a seed.  Next, you generated random numbers by setting a seed within a for loop.  Finally, you generated a random numbers by settting a seed before a for loop.  How did the results differ? In your own words, explain what is happening.
+
+# Describe `random()` and `uniform()`  What arguments does each function take?  What does each function return? What is the major difference between `random()` and `uniform()?`
+
+# Describe `randrange()` and `randint()`.  What arguments does each function take?  What does each function return? What are the two major differences between `randrange()` and `randint()?`
+
+# Describe `choice()` and `sample()`.  What arguments does each function take?  What does each function return? What is the major differences between `choice()` and `sample()?`
 ```
+
 ## Lab
 1. Import the random module.
 2. Write a line of code to display the list of entities in the `random` module.
@@ -79,12 +94,11 @@ print('\nRandom strings:\n')
 15. Write a for loop to generate and display 10 random characters from the string, ` greeting = 'Hello, World!'`
 16. Write a for loop to generate and display 10 random lists containing 3 colors each using the colors from `colors = ['red', 'orange', 'yellow', 'green', 'blue']`
 17. Write a for loop to generate and display 10 random lists containing 3 characters each using the characters from `greeting = 'Hello, World!'`
-
-20. At the bottom of your code, use comments to respond to the following questions and prompts:
+18. At the bottom of your code, use comments to respond to the following questions and prompts:
      * What import strategy must be used in order to be able to display the entities within a module?
      * What must you do to display the entities of a module that has been imported using an alias?
      * In questions 3, 4, and 5 you generated a set of random numbers in a few different ways.  First, you generated random numbers without setting a seed.  Next, you generated random numbers by setting a seed within a for loop.  Finally, you generated a random numbers by settting a seed before a for loop.  How did the results differ? In your own words, explain what is happening.
      * Describe `random()` and `uniform()`  What arguments does each function take?  What does each function return? What is the major difference between `random()` and `uniform()?`
      * Describe `randrange()` and `randint()`.  What arguments does each function take?  What does each function return? What are the two major differences between `randrange()` and `randint()?`
-     * Describe `choice()` and `sample()`.  What arguments does each function take?  What does each function return? What is the major differences between `choice()` and `sample()?`
+     * Describe `choice()` and `sample()`.  What arguments does each function take?  What does each function return? What is the major difference between `choice()` and `sample()?`
        
