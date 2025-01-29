@@ -86,7 +86,7 @@ print('\nRandom strings:\n')
 7. Write a for loop **using one argument only** to generate and display 10 random ints between 0(inclusive) and 5(inclusive).
 8. Write a for loop **using two arguments** to generate and display 10 random ints between 0(inclusive) and 5(inclusive).
 9. Write a for loop to generate and display 10 random ints between 5(inclusive) and 10(inclusive).
-10. Write a for loop **using one argument only** to generate and display 20 random ints between 0(inclusive) and 5(exclusive).
+10. Write a for loop **using one argument only** to generate and display 10 random ints between 0(inclusive) and 5(exclusive).
 11. Write a for loop **using two arguments** to generate and display 10 random ints between 0(inclusive) and 5(exclusive).
 12. Write a for loop to generate and display 10 random ints between 5(inclusive) and 10(exclusive).
 13. Write a for loop to generate and display 10 random even numbers between 10 and 20.
