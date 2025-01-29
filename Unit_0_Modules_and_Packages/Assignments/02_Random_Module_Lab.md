@@ -55,10 +55,10 @@ print('\nRandom colors:\n')
 print('\nRandom characters:\n')
 # Write your code for step 15 below:
 
-print('\nRandom lists of colors:\n')
+print('\nRandom sample of colors:\n')
 # Write your code for step 16 below:
 
-print('\nRandom strings:\n')
+print('\nRandom sample from string:\n')
 # Write your code for step 17 below:
 
 # Use comments respond to the following questions and prompts for step 18 below each question/prompt:
@@ -92,8 +92,8 @@ print('\nRandom strings:\n')
 13. Write a for loop to generate and display 10 random even numbers between 10 and 20.
 14. Write a for loop to generate and display 10 random colors from the list, `colors = ['red', 'orange', 'yellow', 'green', 'blue']`
 15. Write a for loop to generate and display 10 random characters from the string, ` greeting = 'Hello, World!'`
-16. Write a for loop to generate and display 10 random lists containing 3 colors each using the colors from `colors = ['red', 'orange', 'yellow', 'green', 'blue']`
-17. Write a for loop to generate and display 10 random lists containing 3 characters each using the characters from `greeting = 'Hello, World!'`
+16. Write a for loop to generate and display 10 random samples containing 3 colors each from `colors = ['red', 'orange', 'yellow', 'green', 'blue']`
+17. Write a for loop to generate and display 10 random samples containing 3 characters each from `greeting = 'Hello, World!'`
 18. At the bottom of your code, use comments to respond to the following questions and prompts:
      * What import strategy must be used in order to be able to display the entities within a module?
      * What must you do to display the entities of a module that has been imported using an alias?
