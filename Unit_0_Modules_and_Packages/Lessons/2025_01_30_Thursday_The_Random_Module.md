@@ -43,7 +43,7 @@ Thursday, January 30th 2025
 
 ## Resources
 [Random Module Documentation](https://docs.python.org/3/library/random.html)<br><br>
-[edube.org](edube.org) (1.2.1.1 Useful Modules AND 1.2.1.5 Useful Modules|random - 1.2.1.8)<br><br>
+[edube.org](edube.org) (1.2.1.1 Useful Modules AND 1.2.1.5 Useful Modules|random - 1.2.1.8 Useful Modules|random)<br><br>
 **Code Reference:** <br>
 |Code|Description|
 |---|---|
