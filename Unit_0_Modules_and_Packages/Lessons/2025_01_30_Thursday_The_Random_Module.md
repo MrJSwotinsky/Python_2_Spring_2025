@@ -26,6 +26,7 @@ Thursday, January 30th 2025
 |---|
 |1. Write down the digits of the current time displayed on your device.  For example, if the time is 1:17, write down 1, 1, 7.<br><br>2. Open the task manager on your device, select performance, and write down the digits of the first CPU status you notice.  For example, if the first CPU status you notice is 28%, write down 2, 8.<br><br>3. Add up all the digits you wrote down.  For example using the digits above, add 1 + 1 + 7 + 2 + 8 = 19.|
 
+**AGENDA**
 1. Device Data Share Out
 2. Pseudorandomness and Random Seeds
 3. Displaying a Module's Entities
