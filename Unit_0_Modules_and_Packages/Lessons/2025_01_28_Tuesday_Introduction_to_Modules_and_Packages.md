@@ -18,6 +18,7 @@ Tuesday, January 28th 2025
 |---|
 |1. Respond to the following in your notes:<br><ul><li>What mobile apps do you use the most?</li><li>What do you like about them?</li><li>What features do they have?</li></ul>**Be prepared to share!**|
 
+**AGENDA**
 1. Mobile App Discussion
 2. Modules
 3. Documentation
