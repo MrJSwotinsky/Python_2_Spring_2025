@@ -19,19 +19,19 @@ Due: Monday, February 3rd 2025
 ## Math Module Project, Part 1
 Full_Name
 
-**1. In Step 6 you opened the new `pycache` folder containing a single file.  The file itself is not read-able by humans, but it has a purpose.  What is the name of the file in `pycache` and what is its purpose?**
+**1. In Step 6 you opened the new `__pycache__` folder containing a single file.  The file itself is not read-able by humans, but it has a purpose.  What is the name of the file in `__pycache__` and what is its purpose?**
 
-**2. In Step 8 you ran `LastNameFirstInitial_Main.py`.  What was displayed, and why was it displayed even though `LastNameFirstInitial_Main.py` did not have any print statements.  In general, when a module file is imported to a main file, what happens whenever the main file is run?**
+**2. In Step 8 you ran `LastNameFirstInitial_Main.py`.  What was displayed, and why was it displayed even though `LastNameFirstInitial_Main.py` did not have any print statements?  In general, how do module entities behave upon import?**
 
-**3. In Step 9 you ran `LastNameFirstInitial_Math.py`.  What was displayed?  In general, when **any** file containing `print(__name__)` is run, what name will be displayed?**
+**3. In Step 9 you ran `LastNameFirstInitial_Math.py`.  What was displayed?  In general, when **any Python script is run directly**, what will the value of `__name__` be set to?**
 
-**4. In Step 10 you ran `LastNameFirstInitial_Main.py`.  What was displayed?  In general, when a module containing `print(__name__)` is imported to a main file and the main file is run, what will be displayed?**
+**4. In Step 10 you ran `LastNameFirstInitial_Main.py`.  What was displayed?  In general, when **a module is imported** is run directly, what will the value of `__name__` be set to?**
 
 ```
 
 4. In `LastNameFirstInitial_Main.py`, import `LastNameFirstInitial_Math.py`, save, and run.
 5. Run `LastNameFirstInitial_Main.py`.  You should not notice anything in the IDLE.  However, something happened in the background...  
-6. Open the folder containing `LastNameFirstInitial_Main.py` and `LastNameFirstInitial_Math.py`.  You should see a new subfolder, titled `pycache` containing a single file.  Respond to question 1.
+6. Open the folder containing `LastNameFirstInitial_Main.py` and `LastNameFirstInitial_Math.py`.  You should see a new subfolder, titled `__pycache__` containing a single file.  Open `__pycache__` and respond to question 1.
 7. Add the following line of code to `LastNameFirstInitial_Math.py`: `print('Test')` and save.
 8. Run `LastNameFirstInitial_Main.py`.  Respond to question 2.
 9. In `LastNameFirstInitial_Math.py`, comment out `print('Test')`, add the following line of code: `print(__name__)`, save, and run.  Respond to question 3.
