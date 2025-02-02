@@ -34,6 +34,5 @@ Full_Name
 6. Open the folder containing `LastNameFirstInitial_Main.py` and `LastNameFirstInitial_Math.py`.  You should see a new subfolder, titled `pycache` containing a single file.  Respond to question 1.
 7. Add the following line of code to `LastNameFirstInitial_Math.py`: `print('Test')` and save.
 8. Run `LastNameFirstInitial_Main.py`.  Respond to question 2.
-9. Add the following line of code to `LastNameFirstInitial_Math.py`: `print(__name__)`, save, and run.  Respond to question 3.
+9. In `LastNameFirstInitial_Math.py`, comment out `print('Test')`, add the following line of code: `print(__name__)`, save, and run.  Respond to question 3.
 10. Run `LastNameFirstInitial_Main.py`.  Respond to question 4.
-Add the following line of code to `LastNameFirstInitial_Math.py`: `print(__name__)`, save, and run.  Respond to question 4.
