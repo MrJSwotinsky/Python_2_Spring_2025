@@ -27,7 +27,7 @@ Friday, January 31st 2025
 <br>[Unit 0 Assignment 03 - Math Module Project, Part 1](https://github.com/MrJSwotinsky/Python_2_Spring_2025/blob/main/Unit_0_Modules_and_Packages/Assignments/03_My_Math_Module_Project_Part_1.md)
 
 ## Resources
-[edube.org](edube.org) (1.3.1.2 Modules and Packages - 1.3.1.2 Modules and Packages)<br><br>
+[edube.org](edube.org) (1.3.1.2 Modules and Packages - 1.3.1.3 Modules and Packages)<br><br>
 
 **Notes:** <br>
 |Note:|Description|
