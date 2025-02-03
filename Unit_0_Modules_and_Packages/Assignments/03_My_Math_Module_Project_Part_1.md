@@ -27,6 +27,7 @@ Full_Name
 
 **4. In Step 10 you ran `LastNameFirstInitial_Main.py`.  What was displayed?  In general, when **a module is imported** is run directly, what will the value of `__name__` be set to?**
 
+**5.  In Step 11, you added `#!/usr/bin/env python3` to the top of your module file.  What is this line of code called? What is its purpose?
 ```
 
 4. In `LastNameFirstInitial_Main.py`, import `LastNameFirstInitial_Math.py`, save, and run.
@@ -36,3 +37,4 @@ Full_Name
 8. Run `LastNameFirstInitial_Main.py`.  Respond to question 2.
 9. In `LastNameFirstInitial_Math.py`, comment out `print('Test')`, add the following line of code: `print(__name__)`, save, and run.  Respond to question 3.
 10. Run `LastNameFirstInitial_Main.py`.  Respond to question 4.
+11. Add `#!/usr/bin/env python3` to the top of `LastNameFirstInitial_Math.py` and save.  Respond to question 5.
