@@ -2,7 +2,7 @@
 Due: Monday, February 3rd 2025
 
 ## Reading
-[edube.org](edube.org) (1.3.1.2 Modules and Packages - 1.3.1.2 Modules and Packages)<br><br>
+[edube.org](edube.org) (1.3.1.2 Modules and Packages - 1.3.1.3 Modules and Packages)<br><br>
 
 ## Assignmment
 1. Create a new folder in your Computer Science Portfolio titled `My_Math_Module_Project`.
