@@ -41,3 +41,4 @@ Friday, January 31st 2025
 |Code|Description|
 |---|---|
 |`__name__`|When a Python script is run directly, the value of `__name__` is set to `__main__`.<br><br>When a module is imported, the value of `__name__` is set to the name of the module.|
+|#!/usr/bin/env python3 |Hashbang Needed at the top of a module for Unix and Unix-like OS's (e.g. Mac)|
