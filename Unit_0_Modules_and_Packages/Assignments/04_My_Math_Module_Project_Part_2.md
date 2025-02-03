@@ -24,9 +24,9 @@ Full_Name
 
 **3. Explain why private variables in Python aren't really private.**
 
-**4. In Step 10, you declared your counter variable as global.  What is the difference between a global variable and a local variable?**
+**4. In Step 12, you declared your counter variable as global.  What is the difference between a global variable and a local variable?**
 
-**5. Why was it necessary to declare your counter variable as global in your sphere formula functions and your distance formula function, but not in the function that returns the value of the counter itself?**
+**5. Why was it necessary to declare your counter variable as global in your math formula functions, but not in the function that returns the value of the counter itself?**
 ```
 
 4. In `LastNameFirstInitial_Math.py`, create a private variable to store the value of pi (you may estimate pi = 3.1415926535).  Respond to prompts 1, 2, and 3.<br><br>
@@ -34,9 +34,11 @@ Full_Name
 6. In `LastNameFirstInitial_Math.py`, create a function that takes the radius of a sphere as an argument, and returns the surface area of the sphere.<br>Hint: The formula for the surface area of a sphere is: $V = 4 \pi r^2$.<br><br> 
 7. In `LastNameFirstInitial_Math.py`, create a function that takes the x and y coordinates of two points (i.e. x1, y1, x2, y2), and returns distance between the two points.<br>Hint: The distance formula is: $d = \sqrt{(x_{2} - x_{1})^{2} + (y_{2} - y_{1})^{2}}$.<br><br>  
 8. Save and test your functions by calling them from `LastNameFirstInitial_Main.py`.<br><br>
-9. Add a counter to `LastNameFirstInitial_Math.py` that tracks how many times a function from your module has been called.
+9. Add at least 3 more math formula functions to your module. [Click here for some ideas](https://www.matematica.pt/en/useful/math-formulas.php#google_vignette). <br><br>  
+10. Save and test your functions by calling them from `LastNameFirstInitial_Main.py`.<br><br>
+11. Add a counter to `LastNameFirstInitial_Math.py` that tracks how many times a function from your module has been called.
    * First, define a counter variable.
    * Next, declare your counter variable as global in each function.
    * Next, add a line of code to increment your counter variable in each function.
    * Finally, write a function to return the value of your counter.<br><br>
-10. Save and test by calling your functions from `LastNameFirstInitial_Main.py`.  Respond to prompts 4 and 5.
+12. Save and test by calling your functions from `LastNameFirstInitial_Main.py`.  Respond to prompts 4 and 5.
