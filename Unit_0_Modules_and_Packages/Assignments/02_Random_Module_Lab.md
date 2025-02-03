@@ -5,7 +5,7 @@ Due: Friday, January 31st 2025
 [edube.org](edube.org) (1.2.1.1 Useful Modules AND 1.2.1.5 Useful Modules | random - 1.2.1.8 Useful Modules | random)<br><br>
 
 ## Assignmment
-1. Create a new Python file in your in your `Python_2_Unit_0_Assignments_and_Labs` folder titled `LastNameFirstInitial_Random_Module_Lab.py`.
+1. Create a new Python file in your in your `Python_2_Unit_0_Assignments_and_Labs` directory titled `LastNameFirstInitial_Random_Module_Lab.py`.
 2. Copy/Paste the starter code below, replace `Full_Name` with your full name, and complete the lab below.
 
 **As you work, remember to commit frequently and include an appropriate commit message.**
